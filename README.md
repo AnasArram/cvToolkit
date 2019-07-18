@@ -43,9 +43,14 @@ python setup.py install
 ## add Environment Variable
 > vim ~/.bashrc
 
-export PATH=/path/to/cvToolBox:$PATH
+export PATH=/path/to/cvToolkit:$PATH
 
-export PYTHONPATH=/path/to/cvToolBox:$PYTHONPATH
+export PYTHONPATH=/path/to/cvToolkit:$PYTHONPATH
+
+<br>
+
+## model down 
+see: https://github.com/lxy5513/cvToolkit/tree/master/doc 
 
 <br>
 
